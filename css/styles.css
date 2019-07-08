@@ -51,10 +51,32 @@ body {
   padding: 50px;
 }
 
-.bda .container .column {
+.bda .container .column1 {
+  background-color: #f7e6d7;
   display: inline-block;
   max-width: 80%;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.bda .container .column2 {
+  background-color: #cceaf0;
+  display: inline-block;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.bda .container .column3 {
+  background-color: #ddd3e8;
+  display: inline-block;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
   text-align: center;
 }
